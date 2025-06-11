@@ -1,0 +1,6 @@
+[submodule "alura-start"]
+	path = alura-start
+	url = https://github.com/danilo-batista/alura-start
+[submodule "useDev"]
+	path = useDev
+	url = https://github.com/danilo-batista/useDev
