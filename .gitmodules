@@ -7,3 +7,6 @@
 [submodule "luz-e-cena"]
 	path = luz-e-cena
 	url = https://github.com/danilo-batista/luz-e-cena
+[submodule "useDev"]
+	path = useDev
+	url = https://github.com/danilo-batista/useDev
