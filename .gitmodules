@@ -13,3 +13,6 @@
 [submodule "petpark"]
 	path = petpark
 	url = https://github.com/danilo-batista/petpark
+[submodule "alura-start"]
+	path = alura-start
+	url = https://github.com/danilo-batista/alura-start
