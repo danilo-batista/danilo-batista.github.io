@@ -4,3 +4,6 @@
 [submodule "alura-books"]
 	path = alura-books
 	url = https://github.com/danilo-batista/alura-books
+[submodule "luz-e-cena"]
+	path = luz-e-cena
+	url = https://github.com/danilo-batista/luz-e-cena
