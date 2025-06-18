@@ -10,3 +10,6 @@
 [submodule "useDev"]
 	path = useDev
 	url = https://github.com/danilo-batista/useDev
+[submodule "petpark"]
+	path = petpark
+	url = https://github.com/danilo-batista/petpark
